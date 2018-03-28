@@ -1,0 +1,19 @@
+/*
+* Natalie Kennedy
+* March 28, 2018
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { background-color: #FFA1B9;
+	color: black;
+
+}
