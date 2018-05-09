@@ -1,0 +1,27 @@
+/*
+* Natalie Kennedy
+* March 28, 2018
+* Description of Project
+*/
+/* The universal selector */
+
+* { margin:0;
+    padding:0;
+}
+/* Put body attributes here */
+body{
+	border: thin solid #EEBCFF;
+	padding: 5px;
+}
+h1{
+	border: dotted #D351FF;
+	padding: 10px;
+}
+p{
+	border: thick solid #941DBD;
+	padding: 7px;
+}
+main{
+	border: thin solid #4F0667;
+	padding: 5px;
+}
