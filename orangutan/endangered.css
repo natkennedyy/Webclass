@@ -1,0 +1,29 @@
+/*
+* Natalie Kennedy
+* March 28, 2018
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+header {text-align: center; border-bottom: 3px solid #000000;
+}
+body { font-family: Arial,"Times New Roman",Impact;
+ background-color:#FFBE69;
+	color: black;}
+.left{
+float: left;margin:7px;border: 2px solid #000000;}
+.right{float: right;border: thick dotted #6FA239;margin:7px;}
+h1 {font-family: Impact,san-serif, Cursive; font-size: 300%;}
+h3 {font-family: Impact,san-serif, Cursive; }
+footer{clear:right;font-size: 80%; color:#EE5F00;border-top: 3px solid #000000;}
+a:hover, a:focus {
+color: #FE7A00;
+text-decoration: underline;
+font-size: 150%;}
+.image{border: 2px solid #000000;}
+
