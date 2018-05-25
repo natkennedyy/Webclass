@@ -1,0 +1,83 @@
+/* Name:
+*  Date: 
+*  Lab: C13 Fluid Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 95%;
+    background-color: #DFD7D7;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+
+h1 {
+    padding: 10px; font-family: impact,san-serif, cursive; font-size: 200%; text-align:center;
+}
+h2 {
+    padding: 10px; font-family: impact,san-serif, cursive; font-size: 170%;text-align:center;text-decoration:underline overline; 
+}
+h3 {
+    padding: 10px; font-family: impact,san-serif, cursive; font-size: 120%; text-align:center;
+}
+
+header {
+    border-bottom: 2px solid #FF0000;
+}
+
+#sidebarA {
+    width: 24%;
+    /* height:450px; */
+    float: left;
+    text-align:center;
+
+}
+
+main {
+    width: 50% ;
+    /* height:450px; */
+    float: left;
+    border-right: 2px solid #FF0000;
+    border-left: 2px solid #FF0000;
+}
+
+#sidebarB {
+    width: 24%;
+    /* height:450px; */
+    float: right ;
+    }
+#sidebarB p{text-indent:5%;}
+footer {
+    clear: left;
+    border-top: 2px solid #FF0000;}
+
+footer h2{ text-align:left;}
+
+footer p{ text-align:right;
+font-size:100%;color:#FF0000}
+
+footer li{margin: 20px;
+padding: 0px;}
+
+.image1{border: 2px solid #000000;
+float: left;
+margin: 10px;
+padding: 0px;}
+
+p{margin:10px;
+font-size:14pt;}
+
+main p{text-indent:5%;}
+
+.image2{border: 2px solid #000000;
+float: right;
+margin: 10px;
+padding: 0px;}
+
+.image3{border: 2px dashed #000000;
+float: right;
+margin: 30px;
+padding: 0px;}
